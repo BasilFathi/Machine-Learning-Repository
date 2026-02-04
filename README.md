@@ -10,8 +10,8 @@ This repository contains all practical laboratory assignments and projects for t
 
 ## Lab Schedule & Progress
 
-| Lab # | Topic | Status |
-| :--- | :--- | :--- |
+| Lab # | Topic
+| :--- | :--- 
 | **Lab 1** | Git & GitHub for ML Projects 
 | **Lab 2** | ML Problem Identification & Dataset Selection 
 | **Lab 3** | Data Understanding & Exploratory Data Analysis (EDA) 
