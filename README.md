@@ -12,16 +12,16 @@ This repository contains all practical laboratory assignments and projects for t
 
 | Lab # | Topic | Status |
 | :--- | :--- | :--- |
-| **Lab 1** | Git & GitHub for ML Projects | ✅ Completed |
-| **Lab 2** | ML Problem Identification & Dataset Selection | 📅 Upcoming |
-| **Lab 3** | Data Understanding & Exploratory Data Analysis (EDA) | 📅 Upcoming |
-| **Lab 4** | Data Quality Assessment & Preprocessing | 📅 Upcoming |
-| **Lab 5** | Feature Engineering & Feature Impact | 📅 Upcoming |
-| **Lab 6** | Regression Models (Linear & Logistic) | 📅 Upcoming |
-| **Lab 7** | Distance-Based Models (k-NN) | 📅 Upcoming |
-| **Lab 8** | Decision Tree Models | 📅 Upcoming |
-| **Lab 9** | Support Vector Machines (SVM) | 📅 Upcoming |
-| **Lab 10** | Model Comparison | 📅 Upcoming |
+| **Lab 1** | Git & GitHub for ML Projects 
+| **Lab 2** | ML Problem Identification & Dataset Selection 
+| **Lab 3** | Data Understanding & Exploratory Data Analysis (EDA) 
+| **Lab 4** | Data Quality Assessment & Preprocessing 
+| **Lab 5** | Feature Engineering & Feature Impact
+| **Lab 6** | Regression Models (Linear & Logistic) 
+| **Lab 7** | Distance-Based Models (k-NN) 
+| **Lab 8** | Decision Tree Models
+| **Lab 9** | Support Vector Machines (SVM) 
+| **Lab 10** | Model Comparison 
 
 ## Tools & Technologies
 The following tools are used throughout the semester:
