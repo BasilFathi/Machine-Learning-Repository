@@ -1,0 +1,9 @@
+Project Title: Precious Metal Price Prediction
+
+Problem Statement: This project focuses on a Regression problem. The dataset contains historical financial data for precious metals including Gold, Silver, and Platinum.
+
+Target Variable: Gold_Price (The value we want to predict).
+
+Input Features: Silver_Price, Platinum_Price, Gold_Volatility_30d, and Moving Averages.
+
+Goal: The model will learn the relationship between different precious metal markets to predict the price of Gold based on other market indicators and historical trends.
