@@ -15,9 +15,9 @@ This repository contains all practical laboratory assignments and projects for t
 | :--- | :--- |:-- 
 | **Lab 1** | Git & GitHub for ML Projects | Completed
 | **Lab 2** | ML Problem Identification & Dataset Selection | Completed
-| **Lab 3** | Data Understanding & Exploratory Data Analysis (EDA) | Not Completed
-| **Lab 4** | Data Quality Assessment & Preprocessing | Not Completed
-| **Lab 5** | Feature Engineering & Feature Impact| Not Completed
+| **Lab 3** | Data Understanding & Exploratory Data Analysis (EDA) | Completed
+| **Lab 4** | Data Quality Assessment & Preprocessing | Completed
+| **Lab 5** | Feature Engineering & Feature Impact| Completed
 | **Lab 6** | Regression Models (Linear & Logistic) | Not Completed
 | **Lab 7** | Distance-Based Models (k-NN) | Not Completed
 | **Lab 8** | Decision Tree Models | Not Completed
