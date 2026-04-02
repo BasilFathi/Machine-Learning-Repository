@@ -18,7 +18,7 @@ This repository contains all practical laboratory assignments and projects for t
 | **Lab 3** | Data Understanding & Exploratory Data Analysis (EDA) | Completed
 | **Lab 4** | Data Quality Assessment & Preprocessing | Completed
 | **Lab 5** | Feature Engineering & Feature Impact| Completed
-| **Lab 6** | Regression Models (Linear & Logistic) | Not Completed
+| **Lab 6** | Regression Models (Linear & Logistic) | Completed
 | **Lab 7** | Distance-Based Models (k-NN) | Not Completed
 | **Lab 8** | Decision Tree Models | Not Completed
 | **Lab 9** | Support Vector Machines (SVM) | Not Completed
