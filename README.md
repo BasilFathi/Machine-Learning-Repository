@@ -21,7 +21,7 @@ This repository contains all practical laboratory assignments and projects for t
 | **Lab 6** | Regression Models (Linear & Logistic) | Completed
 | **Lab 7** | Distance-Based Models (k-NN) | Completed
 | **Lab 8** | Decision Tree Models | Completed
-| **Lab 9** | Support Vector Machines (SVM) | Not Completed
+| **Lab 9** | Support Vector Machines (SVM) | Completed
 | **Lab 10** | Model Comparison | Not Completed
 
 ## Tools & Technologies
