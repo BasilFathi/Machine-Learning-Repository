@@ -23,6 +23,8 @@ This repository contains all practical laboratory assignments and projects for t
 | **Lab 8** | Decision Tree Models | Completed
 | **Lab 9** | Support Vector Machines (SVM) | Completed
 | **Lab 10** | Model Comparison | Not Completed
+| **Lab 11** | MLOPs | Not Completed
+| **Review** | Not Completed
 
 ## Tools & Technologies
 The following tools are used throughout the semester:
