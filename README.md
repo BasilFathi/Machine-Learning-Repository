@@ -22,7 +22,7 @@ This repository contains all practical laboratory assignments and projects for t
 | **Lab 7** | Distance-Based Models (k-NN) | Completed
 | **Lab 8** | Decision Tree Models | Completed
 | **Lab 9** | Support Vector Machines (SVM) | Completed
-| **Lab 10** | Model Comparison | Not Completed
+| **Lab 10** | Model Comparison | Complete
 | **Lab 11** | MLOPs | Not Completed
 | **Review** | Not Completed
 
